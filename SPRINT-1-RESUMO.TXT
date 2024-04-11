@@ -1,0 +1,85 @@
+Compliance e Quality Assurance - PDF com o material desenvolvido
+
+## Descrição do Problema a Resolver - 1
+
+## Descrição dos Objetivos da Solução Idealizada - 2 
+
+## Definição do público alvo que comprará (cliente/pagante)
+
+## Definição do público alvo que usará (consumidor)
+
+## Estudo de produtos semelhantes no mercado
+
+## Avaliação do potencial de mercado/futuros lucros
+
+---
+
+.NET - pdf/ppt ou outro arquivo similar
+
+# Definição do Problema a Resolver - 1 
+(É essencial destacar e esclarecer o problema que pretendemos resolver, garantindo que a
+questão central seja compreendida de maneira inequívoca)
+
+# Público Alvo (Pessoas Afetadas pelo Problema) - 1.5
+(Determinar quem são as pessoas afetadas pelo problema em questão, delimitando nosso
+público-alvo e potenciais clientes)
+
+# Proposta de Solução - 2
+(Clarificar como nossa solução gera valor para o público-alvo, detalhando o funcionamento e
+os benefícios que oferece)
+
+# Análise de Concorrência
+(Mapear os principais concorrentes, tanto diretos quanto indiretos, para entender o cenário
+competitivo)
+
+# Modelo de Receita
+(Especificar como o projeto gerará receita, apresentando as diversas fontes de renda previstas)
+
+--- 
+
+IA - vídeo pitch com a apresentação macro da ideia do projeto. .zip com o link do vídeo
+
+# Apresentar o tema do projeto
+
+# Apresentar a explicação do problema
+
+# Apresentar as alternativas de solução
+
+# Descrever os possíveis frameworks/bibliotecas Python que serão utilizados (seja específico, quais e por quais razões)
+
+# Descrever de que forma os conceitos de Machine Learning / IA poderão ser utilizados no desenvolvimento do projeto (seja específico neste requisito).
+
+--- 
+
+Mobile - Documento do Word com imagens e explicações, contendo o
+nome completo e RM de todos os integrantes do grupo na capa.
+
+#  Protótipo não funcional wireframe de uma solução mobile com no mínimo 5 telas, acompanhado de explicações detalhadas para cada tela. 
+
+# Incluir cenários possíveis de sucesso ou erro.
+
+---
+
+Devops - PDF
+
+# A partir da solução identificada pelo seu grupo, justifique como a técnica de Virtualização pode contribuir na entrega desse importante projeto. 
+
+- Se a dissertação demonstra os conhecimentos adquiridos em aula e se o texto é coerente e organizado.
+
+- Se contém exemplos e aderência para a solução apresentada pelo grupo.
+
+- Se a dissertação é acompanhada com imagens para ilustrar e melhorar o entendimento da dissertação e solução apresentadas.
+
+--- 
+
+Banco - arquivo zipado contendo o pdf. Projeto de Banco de Dados Relacional e arquivo .sql com os scripts separados por tabela e pdf do modelo logico e físico. 
+
+# Os Diagramas que deverão ser construídos no Oracle Data Modeler, cumprindo a notação DER-(Logical Model) e o MER-(Physical Model). 
+
+# Deverá ser utilizado obrigatoriamente a notação de Barker para o DER-(Logical Model) e no mínimo está na 3ª Forma Normal (3FN)
+
+# Gerar o Modelo Físico e criar os objetos/esquema no banco de dados.
+
+# Para cada Tabela preencher no mínimo 5 registros de acordo com a especificação do projeto.
+
+# Criar dois blocos anônimos para mostrar os dados inseridos, com pelo menos 3 consultas de junções (Joins) utilizando agrupamento (group by) e ordenação (order by)
